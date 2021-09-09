@@ -1,0 +1,5 @@
+{:paths ["src"]
+ :deps
+ {io.github.flexiana/framework {:git/url "https://github.com/Flexiana/framework.git"
+                                :git/tag "v0.2.3"
+                                :sha "8fdc6597984dcd538995ff440ba71789f2f10393"}}}
