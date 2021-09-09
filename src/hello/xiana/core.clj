@@ -10,7 +10,7 @@
                         {:status 200
                          :body "Hello, world!"})))}]])
 
-(def -main
+(defn -main
   "Application entry point"
   []
   (route/reset app-routes)
